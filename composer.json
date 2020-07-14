@@ -16,6 +16,7 @@
             "url": "https://github.com/piotrulka/guzzle3/"
         }
     ],
+    "minimum-stability": "dev",
     "homepage": "https://github.com/thephpleague/omnipay-common",
     "license": "MIT",
     "authors": [
